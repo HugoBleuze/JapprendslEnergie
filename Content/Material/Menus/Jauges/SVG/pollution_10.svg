@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 645 225" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:1.5;">
+    <g transform="matrix(1,0,0,1,-2951.08,-782.03)">
+        <g transform="matrix(1.61547,0,0,1.61547,-1423.14,-352.393)">
+            <g transform="matrix(1.56601,0,0,1.04139,1743.4,510.544)">
+                <g id="jauge-pollution" serif:id="jauge pollution">
+                    <path d="M869.645,218.016C869.645,199.876 859.852,185.149 847.789,185.149L638.355,185.149C626.292,185.149 616.498,199.876 616.498,218.016L616.498,283.75C616.498,301.89 626.292,316.618 638.355,316.618L847.789,316.618C859.852,316.618 869.645,301.89 869.645,283.75L869.645,218.016Z" style="fill:white;"/>
+                    <clipPath id="_clip1">
+                        <path d="M869.645,218.016C869.645,199.876 859.852,185.149 847.789,185.149L638.355,185.149C626.292,185.149 616.498,199.876 616.498,218.016L616.498,283.75C616.498,301.89 626.292,316.618 638.355,316.618L847.789,316.618C859.852,316.618 869.645,301.89 869.645,283.75L869.645,218.016Z"/>
+                    </clipPath>
+                    <g clip-path="url(#_clip1)">
+                        <g transform="matrix(0.0933603,0,0,1,557.962,1.0438)">
+                            <rect x="616.498" y="185.149" width="253.147" height="131.468" style="fill:rgb(0,255,19);stroke:black;stroke-width:3.04px;"/>
+                        </g>
+                    </g>
+                    <path d="M869.645,218.016C869.645,199.876 859.852,185.149 847.789,185.149L638.355,185.149C626.292,185.149 616.498,199.876 616.498,218.016L616.498,283.75C616.498,301.89 626.292,316.618 638.355,316.618L847.789,316.618C859.852,316.618 869.645,301.89 869.645,283.75L869.645,218.016Z" style="fill:none;stroke:black;stroke-width:1.7px;"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
